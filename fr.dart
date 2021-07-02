@@ -25,32 +25,32 @@ var translationsFR = {
           "Ce dernier peut être élevé mais est indépendant du montant. Vous ne pouvez pas contrôler exactement combien de BTC vous recevrez",
   "pay-by-wire-small-detail":
       "Faire un virement ou mettre en place un virement permanent ( « DCA »).",
-  "deposit-information": "Renseignements sur le dépôt",
+  "deposit-information": "Renseignements de dépôt",
   "reference": "Flitz ID",
   "order-history": "Historique des transactions",
   "wallets": "Portefeuilles",
-  "merchants": "Marchands",
+  "merchants": "Commerçants",
   "faq": "Questions fréquemment posées",
-  "pay-by-wire-large-detail": "S'il vous plaît prendre en compte:\n"
-      "- Définissez votre ID de référence comme la description du virement SEPA.\n"
-      "- Les paiements récurrents sont pris en charge jusqu'à votre limite mensuelle.\n"
+  "pay-by-wire-large-detail": "Veuillez prendre en compte:\n"
+      "- Mettez comme description de paiement votre nom de compte (Flitz ID).\n"
+      "- Les paiements permanents sont pris en charge jusqu'à votre limite mensuelle.\n"
       "- Les paiements SEPA peuvent prendre quelques jours pour régler.\n"
-      "- S'il vous plaît noter que, après votre premier paiement, votre IBAN est considéré comme fixe: tous les paiements subséquents doivent provenir du même compte bancaire.\n"
-      "- Votre nom doit également correspondre au nom de votre compte.\n",
-  "account-information": "Information sur le compte",
+      "- Veuillez noter qu'après votre premier paiement, votre IBAN est considéré comme fixe: tous les paiements suivants doivent être excécutés par le même compte bancaire.\n"
+      "- Votre nom doit correspondre à votre nom de compte.\n",
+  "account-information": "Information de compte",
   "account-limits": "Limites de compte",
   "monthly-limit": "Limites mensuelles",
-  "volume-this-month": "Volume ce mois-ci",
+  "volume-this-month": "Volume de ce mois",
   "volume-total": "Volume total",
   "log-out": "Se déconnecter",
   "sign-in-mail":
-      "Nous vous ferons parvenir un lien pour vous connecter. Si vous ne le voyez pas, vérifiez votre dossier spam. Ouvrir le lien dans l'e-mail sur cet appareil.",
+      "Vous recevrez un mail d'activation. Cliquez sur le lien dans ce mail pour activer votre compte. Si vous ne le voyez pas, vérifiez votre dossier spam. Ouvrez le lien sur cet appareil.",
   "continue": "Continuer",
   "account-disabled": "Votre compte a été désactivé.",
   "contact-support": "Contactez le support.",
   "complete-account-information": "Remplissez vos informations. ",
   "learn-about-info":
-      "En savoir pourquoi nous avons besoin de ces informations",
+      "Savoir pourquoi nous avons besoin de ces informations",
   "first-name-label": "Prénom:",
   "last-name-label": "Nom de famille:",
   "country-label": "Pays:",
