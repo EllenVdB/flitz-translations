@@ -3,28 +3,28 @@ var translationsFR = {
       "Aucun retrait en attente. Appuyez ici pour acheter du Bitcoin en quelques secondes.",
   "hello": "Bonjour, ",
   "buy-bitcoin": "Acheter du Bitcoin",
-  "shop": "Shopping",
+  "shop": "Acheter",
   'use-button-below': "Utilisez le bouton ci-dessous pour commencer.",
   "account-statistics": "Statistiques du compte",
-  "bitcoin-purchased": "Bitcoin acheté",
+  "bitcoin-purchased": "Bitcoins achetés",
   "total-invested": "Total investi",
   "current-euro-value": "Valeur actuelle €",
   "percent-change": "Variation en pourcentage",
   "bitcoin-price": "Prix Bitcoin",
   "fee": "Frais",
-  "approx-value-bitcoin": "Valeur de BTC approx.",
-  "pay-by-gateway": "Paiement par passerelle de paiement",
+  "approx-value-bitcoin": "Valeur BTC approximative",
+  "pay-by-gateway": "Paiement par passerelle",
   "pay-by-wire": "Paiement par virement bancaire",
   "provided-by": "Fourni par",
-  'swap': 'Echanger',
+  'swap': 'Échanger',
   'destination-address': 'Adresse de destination',
   'swap-history': 'Historique des échanges',
   'swap-info':
-      "En utilisant Fixedfloat, vous pouvez transférer Bitcoin dans votre portefeuille Lightning vers un classique "
-          "adresse bitcoin. Le coût de la transaction est de 0,5% + le on-chain "
-          "coût de transaction. Ce dernier peut être élevé mais est indépendant du montant. Vous ne pouvez pas contrôler exactement combien de BTC vous recevrez",
+      "En utilisant Fixedfloat, vous pouvez transférer du Bitcoin dans votre portefeuille Lightning vers une adresse Bitcoin classique."
+          "Le coût de la transaction est de 0,5% + le coût de transaction on-chain."
+          "Ce dernier peut être élevé mais est indépendant du montant. Vous ne pouvez pas contrôler exactement combien de BTC vous recevrez",
   "pay-by-wire-small-detail":
-      "Faire un virement ou mettre en place un virement récurrent ( « DCA »).",
+      "Faire un virement ou mettre en place un virement permanent ( « DCA »).",
   "deposit-information": "Renseignements sur le dépôt",
   "reference": "Flitz ID",
   "order-history": "Historique des transactions",
