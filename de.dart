@@ -6,21 +6,21 @@ var translationsDE = {
   "shop": "Kaufen",
   "use-button-below": "Klicken Sie auf die Schaltfläche unten, um anzufangen",
   "account-statistics": "Kontostatistiken",
-  "bitcoin-purchased": "Bitcoin wurde gekauft",
+  "bitcoin-purchased": "Bitcoins wurden gekauft",
   "total-invested": "Insgesamt investiert",
   "current-euro-value": "Aktuelle Wert in €",
   "percent-change": "Prozentänderung",
   "bitcoin-price": "Bitcoin-Kurs",
   "fee": "Gebühr",
   "approx-value-bitcoin": "Geschätzter Wert in BTC",
-  "pay-by-gateway": "Pay-per-Payment-Gateway",
-  "pay-by-wire": "Bezahlen per Banküberweisung",
+  "pay-by-gateway": "Zahlung per Gateway",
+  "pay-by-wire": "Zahlung per Banküberweisung",
   'provided-by': "Bereitgestellt von",
   'swap': "Tauschen",
-  'swap-history': 'Tauschengeschichte',
+  'swap-history': 'Tauschverlauf',
   'destination-address': "Zieladresse",
   'swap-info':
-      "Mit Fixedfloat können Sie Bitcoin in Ihrem Lightning-Wallet auf einen Klassiker "
+      "Mit Fixedfloat können Sie Bitcoins in Ihrem Lightning-Wallet auf einen Klassiker "
           "Bitcoin-Adresse übertragen. Die Transaktionskosten betragen 0,5% + die On-Chain "
           "Transaktionskosten. Letztere können hoch sein, aber er sind unabhängig von der Höhe. Sie können nicht genau kontrollieren, wie viel BTC Sie erhalten.",
   "pay-by-wire-small-detail":
