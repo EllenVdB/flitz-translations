@@ -55,9 +55,9 @@ var translationsFR = {
   "last-name-label": "Nom de famille:",
   "country-label": "Pays:",
   "select-country": "Sélectionnez votre pays",
-  "lets-go": "Allons-y",
+  "lets-go": "Démarrer",
   "slide-1-content":
-      "Flitz aide les Européens acheter Bitcoin, livré à la vitesse de l'éclair à votre propre porte-monnaie.",
+      "Flitz aide les Européens à acheter du Bitcoin, livré à la vitesse de l'éclair dans votre propre porte-monnaie.",
   "slide-2-content":
       "Flitz n'est pas un portefeuille de Bitcoin. Assurez-vous d'avoir un de ces portefeuilles installés pour recevoir vos fonds.",
   "slide-3-content":
