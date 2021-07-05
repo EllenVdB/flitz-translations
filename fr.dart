@@ -61,45 +61,45 @@ var translationsFR = {
   "slide-2-content":
       "Flitz n'est pas un portefeuille de Bitcoin. Installez un portefeuilles pour pouvoir consulter vos fonds.",
   "slide-3-content":
-      "Flitz ne détient que vos fonds pour un montant minimum de temps. Retire-les à votre propre portefeuille directement après avoir terminé votre commande.",
+      "Flitz ne détient vos fonds que pour un minimum de temps. Retirez-les à votre propre portefeuille directement après avoir terminé votre commande.",
   "slide-1-title": "Bienvenue à la révolution",
   "slide-2-title": "Choisir un portefeuille",
-  "slide-3-title": "Pas vos clés, pas vos pièces.",
-  "please-withdraw": "S'il vous plaît retirer à votre portefeuille maintenant.",
-  "withdraw-to-wallet": "Ouvrir porte-monnaie",
+  "slide-3-title": "Pas vos clés, pas vos Bitcoins.",
+  "please-withdraw": "Veuillez retirer les coins à votre portefeuille maintenant.",
+  "withdraw-to-wallet": "Ouvrir votre portefeuille",
   "pending-withdrawal": "En attente de retrait",
   "explore": "Explorer",
   "please-click-link":
-      "S'il vous plaît cliquer sur le lien dans l'e-mail que vous avez reçu pour vous connecter.",
+      "Cliquez sur le lien dans l'email que vous venez  de recevoir pour vous connecter.",
   "withdraw-failed":
-      "Votre retrait a échoué. S'il vous plaît essayer de nouveau, ou contacter si le problème persiste.",
+      "Votre retrait a échoué. Veuillez essayer de nouveau, ou contacter le support.",
   "please-fill-in-required": "Veuillez remplir tous les champs requis.",
-  "amount-too-small": "La quantité est trop faible.",
-  "did-not-get-order": "Nous n'avons pas encore votre commande.",
+  "amount-too-small": "La quantité est trop petite.",
+  "did-not-get-order": "Nous n'avons pas encore reçu votre commande.",
   "deposit-information-disabled":
-      "Les dépôts ne sont pas disponibles pour le moment. Vérifiez à nouveau plus tard.",
+      "Les dépôts ne sont pas disponibles pour le moment. Veuillez vérifiez à nouveau à un moment plus tard.",
   "did-not-get-order-detail":
-      "Vous recevrez une notification lorsque nous recevons votre commande.",
+      "Vous recevrez une notification lorsque nous avons bien reçu votre commande.",
   "copied": "copié",
   "privacy-policy": "Politique de confidentialité",
   "terms-conditions": "Termes et conditions",
   "terms-conditions-accept-condition":
       "En cochant cette case, vous acceptez nos [Termes et Conditions](https://flitz.be/terms-conditions) et notre [Politique de confidentialité](https://flitz.be/privacy-policy)",
   "please-agree-terms":
-      "S'il vous plaît d'accord avec les Termes et Conditions et Politique de confidentialité.",
+      "Veuillez accepter les Termes et Conditions et la Politique de confidentialité.",
   "country-availability-info":
-      "Sélectionnez votre nationalité. Vous aurez besoin d'un compte bancaire enregistré dans ce pays afin d'acheter BTC sur Flitz.",
-  "open-wallet-pay": "Ouvrez portefeuille pour payer.",
+      "Sélectionnez votre nationalité. Vous aurez besoin d'un compte bancaire enregistré dans ce pays afin de pouvoir acheter du BTC sur Flitz.",
+  "open-wallet-pay": "Ouvrez votre portefeuille pour payer.",
   "bancontact":
-      "Payez Bancontact. € 0,39 seront déduits pour couvrir les frais Bancontact.",
+      "Payez par Bancontact. € 0,39 seront déduits pour couvrir les frais Bancontact.",
   "no-order-history":
-      "Une table rase. [Faire une commande](https://flitz.be) pour commencer.",
+      "Aucune commande trouvée. [Placez une commande](https://flitz.be) pour commencer.",
   "Name": "Nom",
   "password-login":
       "Inscrivez-vous avec un e-mail et un mot de passe. Nous vous demanderons de vérifier votre connexion après avoir signé.",
   "already-signed-in": "Vous avez déjà un compte? Connectez-vous ici.",
   "sign-up": "S'inscrire",
-  "amount-too-large": "La quantité est trop importante.",
+  "amount-too-large": "La quantité est trop grande.",
   "bank-transfer-verification":
       "Vérifiez votre compte en faisant un virement bancaire. Ensuite, vous pouvez payer à nouveau par un fournisseur de paiement.",
   "bank-transfer-verification-info":
