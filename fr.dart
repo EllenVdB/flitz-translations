@@ -103,21 +103,21 @@ var translationsFR = {
   "bank-transfer-verification":
       "Vérifiez votre compte en faisant un virement bancaire. Ensuite, vous pouvez payer à nouveau par un fournisseur de paiement.",
   "bank-transfer-verification-info":
-      "Le virement bancaire doit provenir du compte ** @ iban ** qui doit porter votre nom: ** nom de @ **.",
-  "strike-search-label": "Recherche de nom d'utilisateur Strike",
-  "nothing-found": "Rien n'a été trouvé.",
+      "Le virement bancaire doit provenir d'un compte ** @ iban ** qui doit porter votre nom: ** nom de @ **.",
+  "strike-search-label": "Chercher votre nom d'utilisateur Strike",
+  "nothing-found": "Aucun résultat trouvé.",
   "send": "Envoyer",
   "strike-info":
-      "En utilisant [Strike](https://beta.strike.me) vous pouvez envoyer de l'argent instantanément, sans frais, partout dans le monde. Ils sont actuellement disponibles aux États-Unis et El Salvador.",
+      "En utilisant [Strike](https://beta.strike.me) vous pouvez envoyer de l'argent immédiatement, sans frais, partout dans le monde. Ceci est actuellement disponible aux États-Unis et El Salvador.",
   "no-contacts":
-      "Vous n'avez pas de contacts. Rechercher les utiliser l'une des plates-formes prises en charge.",
+      "Vous n'avez pas de contacts. Rechercher-les sur une des plates-formes connectées.",
   'flitz-contact-info':
-      "Demandez à votre contact son ID FLITZ et collez-le ici. Vous pouvez trouver votre ID FLITZ sous les informations de votre compte.",
+      "Collez ici le ID FLITZ. Vous pouvez le trouver sous les informations de votre compte.",
   'flitz-contact-label': 'FLITZ1234567890',
   'share-deposit-id-info':
-      'Entrez cet identifiant comme référence avec chaque paiement SEPA que vous nous envoyez. Si vous partagez cet identifiant avec des personnes, elles peuvent vous rechercher et vous ajouter comme contact. Ils peuvent voir votre prénom et votre photo de profil et vous envoyer de l\'argent via Lightning. ',
-  'forgot-password':
+      'Mentionnez cet identifiant comme référence avec chaque paiement SEPA que vous nous envoyez. Si vous partagez cet identifiant avec des tiers, ils peuvent vous rechercher et vous ajouter comme contact. Ils peuvent voir votre prénom et votre photo de profil et vous envoyer de l\'argent via Lightning par l\'appli de Flitz', 
+ 'forgot-password':
       "Mot de passe oublié? Envoyer un e-mail de réinitialisation de mot de passe.",
-  'upload-profile': 'Upload image de profil',
+  'upload-profile': 'Télécharger une photo de profil',
   "cancel": "Annuler"
 };
