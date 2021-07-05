@@ -57,9 +57,9 @@ var translationsFR = {
   "select-country": "Sélectionnez votre pays",
   "lets-go": "Démarrer",
   "slide-1-content":
-      "Flitz aide les Européens à acheter du Bitcoin, livré à la vitesse de l'éclair dans votre propre porte-monnaie.",
+      "Flitz aide les Européens à acheter du Bitcoin, livré à la vitesse de l'éclair, dans votre propre porte-monnaie.",
   "slide-2-content":
-      "Flitz n'est pas un portefeuille de Bitcoin. Assurez-vous d'avoir un de ces portefeuilles installés pour recevoir vos fonds.",
+      "Flitz n'est pas un portefeuille de Bitcoin. Installez un portefeuilles pour pouvoir consulter vos fonds.",
   "slide-3-content":
       "Flitz ne détient que vos fonds pour un montant minimum de temps. Retire-les à votre propre portefeuille directement après avoir terminé votre commande.",
   "slide-1-title": "Bienvenue à la révolution",
