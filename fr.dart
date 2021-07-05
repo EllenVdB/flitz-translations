@@ -34,7 +34,7 @@ var translationsFR = {
   "pay-by-wire-large-detail": "Veuillez prendre en compte:\n"
       "- Mettez comme description de paiement votre nom de compte (Flitz ID).\n"
       "- Les paiements permanents sont pris en charge jusqu'à votre limite mensuelle.\n"
-      "- Les paiements SEPA peuvent prendre quelques jours pour régler.\n"
+      "- Les paiements SEPA peuvent prendre quelques jours.\n"
       "- Veuillez noter qu'après votre premier paiement, votre IBAN est considéré comme fixe: tous les paiements suivants doivent être excécutés par le même compte bancaire.\n"
       "- Votre nom doit correspondre à votre nom de compte.\n",
   "account-information": "Information de compte",
@@ -72,12 +72,12 @@ var translationsFR = {
   "please-click-link":
       "Cliquez sur le lien dans l'email que vous venez  de recevoir pour vous connecter.",
   "withdraw-failed":
-      "Votre retrait a échoué. Veuillez essayer de nouveau, ou contacter le support.",
+      "Votre retrait a échoué. Veuillez essayer de nouveau, ou contactez le support.",
   "please-fill-in-required": "Veuillez remplir tous les champs requis.",
   "amount-too-small": "La quantité est trop petite.",
   "did-not-get-order": "Nous n'avons pas encore reçu votre commande.",
   "deposit-information-disabled":
-      "Les dépôts ne sont pas disponibles pour le moment. Veuillez vérifiez à nouveau à un moment plus tard.",
+      "Les dépôts ne sont pas disponibles pour le moment. Veuillez vérifier de nouveau à un moment plus tard.",
   "did-not-get-order-detail":
       "Vous recevrez une notification lorsque nous avons bien reçu votre commande.",
   "copied": "copié",
@@ -91,17 +91,17 @@ var translationsFR = {
       "Sélectionnez votre nationalité. Vous aurez besoin d'un compte bancaire enregistré dans ce pays afin de pouvoir acheter du BTC sur Flitz.",
   "open-wallet-pay": "Ouvrez votre portefeuille pour payer.",
   "bancontact":
-      "Payez par Bancontact. € 0,39 seront déduits pour couvrir les frais Bancontact.",
+      "Payer par Bancontact. € 0,39 seront déduits pour couvrir les frais Bancontact.",
   "no-order-history":
       "Aucune commande trouvée. [Placez une commande](https://flitz.be) pour commencer.",
   "Name": "Nom",
   "password-login":
-      "Inscrivez-vous avec un e-mail et un mot de passe. Nous vous demanderons de vérifier votre connexion après avoir signé.",
+      "Inscrivez-vous avec un e-mail et un mot de passe. Nous vous demanderons de vérifier votre compte après l'enregistrement.",
   "already-signed-in": "Vous avez déjà un compte? Connectez-vous ici.",
   "sign-up": "S'inscrire",
   "amount-too-large": "La quantité est trop grande.",
   "bank-transfer-verification":
-      "Vérifiez votre compte en faisant un virement bancaire. Ensuite, vous pouvez payer à nouveau par un fournisseur de paiement.",
+      "Vérifiez votre compte en exécutant un virement bancaire. Ensuite, vous pouvez payer à nouveau par un fournisseur de paiement.",
   "bank-transfer-verification-info":
       "Le virement bancaire doit provenir d'un compte ** @ iban ** qui doit porter votre nom: ** nom de @ **.",
   "strike-search-label": "Chercher votre nom d'utilisateur Strike",
@@ -110,7 +110,7 @@ var translationsFR = {
   "strike-info":
       "En utilisant [Strike](https://beta.strike.me) vous pouvez envoyer de l'argent immédiatement, sans frais, partout dans le monde. Ceci est actuellement disponible aux États-Unis et El Salvador.",
   "no-contacts":
-      "Vous n'avez pas de contacts. Rechercher-les sur une des plates-formes connectées.",
+      "Aucun contact trouvé. Recherchez-les sur une des plates-formes connectées.",
   'flitz-contact-info':
       "Collez ici le ID FLITZ. Vous pouvez le trouver sous les informations de votre compte.",
   'flitz-contact-label': 'FLITZ1234567890',
